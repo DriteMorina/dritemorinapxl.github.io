@@ -100,6 +100,8 @@ sidebar_link: true
 
 ## Extra activiteiten
 
+### student engagement
+
 <div>
   <h4>Studentenvereniging Prominos: Vertor</h4>
   <ul style="margin-top:0">
@@ -118,3 +120,12 @@ sidebar_link: true
     <img src="images/faalangst.png" alt="Faalangst" style="width: 50%; margin: 20px;">
   </div>
 </div>
+
+
+    • Student Engagement
+        ◦ Studentenvereniging Prominos: Schachtenmeester
+        ◦ Gedurende een jaar lang heb ik de functie van Schachtenmeester (aanspreekpunt voor nieuwe leden) mogen bekleden bij Prominos van departement Education.
+        ◦ Education PXL – Gebouw F verdieping 8 (verenigingslokaal)
+        ◦ 18/09/2023 – 15/09/2024
+        ◦ Bewijsstukken
+            ▪ Praesidiumfoto

@@ -7,7 +7,7 @@ excerpt_separator:  <!--more-->
 ### voorstelling
 
 <p style="text-align: justify">
-mijn naam is Dritë. Ik ben een derdejaarsstudent toegepaste informatica, gespecialiseerd in systeem- en netwerkbeheer.  Ik ben gepassioneerd in automatisatie, cloud computing en cybersecurity. Ik voel me helemaal thuis in de wereld van DevOps.
+mijn naam is Dritë. Ik ben een derdejaarsstudent toegepaste informatica, gespecialiseerd in systeem- en netwerkbeheer.  Ik ben gepassioneerd door automatisatie, cloud computing en cybersecurity. Ik voel me helemaal thuis in de wereld van DevOps.
 Ik ben een flexibele werker die snel met veranderingen kan omgaan. Ik voel me dus snel thuis in een omgeving waar agile gewerkt wordt, aangezien verwachtingen hier snel kunnen variëren van één moment op het andere. Ik voel me ook goed  in een fijn team. Ik zal niet snel het voortouw nemen, maar ik ben gedreven om actief bij te dragen tot het realiseren van gemeenschappelijke doelen. Verder ben ik sociaal in omgang en vlot in communicatie, wat een pluspunt is in teamverband.
 </p>
 

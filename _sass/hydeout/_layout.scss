@@ -43,8 +43,6 @@ body {
     margin-bottom: $heading-spacing;
     margin-top: 0;
   }
-
-  .site-title .back-arrow { margin-right: 0.5rem; }
 }
 
 .content {
@@ -178,11 +176,6 @@ body {
 
     @else {
       left: 0;
-    }
-
-    .site-title {
-      font-size: 3.25rem;
-      .back-arrow { display: none; }
     }
 
     p.lead,
