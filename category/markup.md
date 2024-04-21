@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Eindreflectie
 ---
 
 Another sample category page.

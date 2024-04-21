@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Overzicht activiteiten
 sidebar_link: true
 ---
 

@@ -23,7 +23,7 @@ it with an `index.html` that uses the `index` layout:
 ```
 ---
 layout: index
-title: Home
+title: Intro
 ---
 ```
 
