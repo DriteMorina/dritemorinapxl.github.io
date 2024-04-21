@@ -4,80 +4,14 @@ title: Portfolio I-Talent
 excerpt_separator:  <!--more-->
 ---
 
-Hydeout updates the original [Hyde](https://github.com/poole/hyde)
-theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
+### voorstelling
 
-### Keep It Simple
+<p style="text-align: justify">
+mijn naam is Dritë. Ik ben een derdejaarsstudent toegepaste informatica, gespecialiseerd in systeem- en netwerkbeheer.  Ik ben gepassioneerd in automatisatie, cloud computing en cybersecurity. Ik voel me helemaal thuis in de wereld van DevOps.
+Ik ben een flexibele werker die snel met veranderingen kan omgaan. Ik voel me dus snel thuis in een omgeving waar agile gewerkt wordt, aangezien verwachtingen hier snel kunnen variëren van één moment op het andere. Ik voel me ook goed  in een fijn team. Ik zal niet snel het voortouw nemen, maar ik ben gedreven om actief bij te dragen tot het realiseren van gemeenschappelijke doelen. Verder ben ik sociaal in omgang en vlot in communicatie, wat een pluspunt is in teamverband.
+</p>
 
-In keeping with the original Hyde theme, Hydeout aims to keep the overall
-design lightweight and plugin-free. JavaScript is currently limited only
-to Disqus and Google Analytics (and is only loaded if you provide configuration
-variables).
-
-Hydeout makes heavy use of Flexbox in its CSS. If Flexbox is not available,
-the CSS degrades into a single column layout.
-
-### Customization
-
-Hydeout replaces Hyde's class-based theming with the use
-of the following SASS variables:
-
-```scss
-$sidebar-bg-color: #202020 !default;
-$sidebar-fg-color: white !default;
-$sidebar-sticky: true !default;
-$layout-reverse: false !default;
-$link-color: #268bd2 !default;
-```
-
-To override these variables, create your own `assets/css/main.scss` file.
-Define your own variables, then import in Hydeout's SCSS, like so:
-
-```
----
-# Jekyll needs front matter for SCSS files
----
-
-$sidebar-bg-color: #ac4142;
-$link-color: #ac4142;
-$sidebar-sticky: false;
-@import "hydeout";
-```
-
-See the [_variables](https://github.com/fongandrew/hydeout/blob/master/_sass/hydeout/_variables.scss) file for other variables
-you can override.
-
-You can also insert custom head tags (e.g. to load your own stylesheets) by
-defining your own `_includes/custom-head.html` or insert tags at the end
-of the body (e.g. for custom JS) by defining your own
-`_includes/custom-foot.html`.
-
-### New Features
-
-* Hydeout also adds a new tags page (accessible in the sidebar) and a new
-  "category" layout for dedicated category pages.
-
-* Category pages are automatically added to the sidebar. All other pages
-  must have `sidebar_link: true` in their front matter to show up in
-  the sidebar.
-
-* A simple redirect-to-Google search is available. If you want to use
-  Google Custom Search or Algolia or something with more involved,
-  override the `search.html`.
-
-* Disqus integration is ready out of the box. Just add the following to
-  your config file:
-
-  ```yaml
-  disqus:
-    shortname: my-disqus-shortname
-  ```
-
-  If you don't want Disqus or want to use something else, override
-  `comments.html`.
-
-* For Google Analytics support, define a `google_analytics` variable with
-  your property ID in your config file.
-
-There's also a bunch of minor tweaks and adjustments throughout the
-theme. Hope this works for you!
+<p style="text-align: justify">
+Later hoop ik uiteraard bezig te zijn met mijn passie binnen IT, namelijk DevOps.  Ik zou enkele jaren na mijn studie graag een positie hebben in een team waar ik enige verantwoordelijkheid heb over de infrastructuur die ik opzet. Ik heb het geluk gehad om tijdens mijn stage bij Inuits mee te mogen draaien in het interne operations team. In dit team heeft iedereen zijn eigen verantwoordelijkheid om alles draaiende te houden. Later zou ik me graag ook in een positie zien waar ik duidelijk mijn steentje bijdraag om een bedrijf recht te houden.
+ Zoals ik al had vermeld, werk ik graag samen met anderen. Dit is waar ik op mijn best en het meest productief ben.
+</p>
