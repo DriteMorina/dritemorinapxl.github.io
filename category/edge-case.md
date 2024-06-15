@@ -10,7 +10,7 @@ Zowel in 2023 als 2024 heb ik aan de Cyber Security Challenge Belgium meegedaan.
 </p>
 
 <p style="text-align: justify">
-De complexiteit van de puzzels verschilde enorm, wat ieder persoon de mogelijk gaf om tenminste enkele rooms op te lossen. Zo waren er puzzels waar je slechts een simpele codering moest achterhalen, of waar je braille moest vertalen. Als je de opgave begreep, wist je dat je waarschijnlijk vrij ver kon raken in de opgave. Zoals je kan zien in de onderstaande foto, was dit één van de makkelijkere oplossingen. Het brailleschrift moest gewoon vertaald worden. Aan de andere kant van het spectrum waren er rooms waar je enorm veel werk in moest steken. Zo was er in 2023 een room die je enkel kon maken indien de webpagina werd geopend in Windows XP met Internet Explorer 2004 (of indien dit gesimuleerd werd).
+De complexiteit van de puzzels verschilde enorm, wat ieder persoon de mogelijkheid gaf om tenminste enkele rooms op te lossen. Zo waren er puzzels waar je slechts een simpele codering moest achterhalen, of waar je braille moest vertalen. Als je de opgave begreep, wist je dat je waarschijnlijk vrij ver kon raken in de opgave. Zoals je kan zien in de onderstaande foto, was dit één van de makkelijkere oplossingen. Het brailleschrift moest gewoon vertaald worden. Aan de andere kant van het spectrum waren er rooms waar je enorm veel werk in moest steken. Zo was er in 2023 een room die je enkel kon maken indien de webpagina werd geopend in Windows XP met Internet Explorer 2004 (of indien dit gesimuleerd werd).
 </p>
 
 <img src="../images/braille.png" alt="Braille" style="width: 50%; margin: 20px;">
