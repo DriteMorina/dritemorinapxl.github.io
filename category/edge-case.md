@@ -21,7 +21,7 @@ In 2023 hebben we het redelijk goed gedaan ondanks dat we er blind zijn ingegaan
 </p>
 
 <p style="text-align: justify">
-Één van mijn favoriete challenges was de ‘ChallengeCeption’. In deze puzzel zaten vier flags verstopt en per gevonden flag kreeg je meer punten. Ik heb hier redelijk wat tijd ingestoken, en uiteindelijk heb ik er drie uitgehaald. De eerste twee flags waren redelijk makkelijk om te vinden, maar de andere twee niet dus het was wel fijn om op zijn minst één van de twee moeilijkere te vinden. Om deze oplossingen te vinden hebben ik gebruik gemaakt van het programma WireShark. De eerste kon gevonden worden met een simpel commando:
+Één van mijn favoriete challenges was de ‘ChallengeCeption’. In deze puzzel zaten vier flags verstopt en per gevonden flag kreeg je meer punten. Ik heb hier redelijk wat tijd ingestoken, en uiteindelijk heb ik er drie uitgehaald. De eerste twee flags waren redelijk makkelijk om te vinden, maar de andere twee niet dus het was wel fijn om op zijn minst één van de twee moeilijkere te vinden. Om deze oplossingen te vinden heb ik gebruik gemaakt van het programma WireShark. De eerste kon gevonden worden met een simpel commando:
 </p>
 
 <img src="../images/strings.png" alt="Braille" style="width: 100%; margin: 20px;">
