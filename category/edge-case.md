@@ -165,7 +165,7 @@ Het lijkt misschien vanzelfsprekend, maar ik ben ook een stuk socialer en vlot i
 
 <hr>
 
-## Activiteit 4: Praesidium Saltator Orator Sodalis
+## Activiteit 4: bedrijfsreis Inuits
 
 <p style="text-align: justify">
 Het weekend van 2 maart 2024 ben ik op reis geweest met Inuits,  het bedrijf waar ik mijn stage uitvoer. We hebben een reis gemaakt naar Tsjechië, waar Inuits een bureau heeft en dus ook meerdere werknemers.
