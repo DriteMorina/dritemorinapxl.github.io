@@ -111,10 +111,6 @@ Mijn twee jaren in het bestuur van Prominos waren een onvergetelijke tijd. Het h
 Er zijn oneindig veel dingen die ik zou kunnen vertellen over de dingen die ik geleerd heb bij Prominos, maar het belangrijkste dat ik geleerd heb is feedback aannemen en ook feedback geven. Ik heb hier meermaals om gevraagd bij mijn andere bestuurs- en Prominosleden. Dit heeft me enorm geholpen om mijn functie consistent goed uit te voeren.
 </p>
 
-<p style="text-align: justify">
-Ik heb getwijfeld om dit op te nemen in mijn portfolio omdat studentenverenigingen en clubs tegenwoordig niet in het beste daglicht staan, maar ik doe het toch, aangezien deze twee dingen echt een enorme invloed hebben gehad op mijn groei als persoon, en het bereiken van de X-factor.
-</p>
-
 <hr>
 
 ## Activiteit 3: Praesidium Saltator Orator Sodalis
@@ -161,6 +157,10 @@ Vragen durven stellen is waarschijnlijk mijn beste eigenschappen die ik mezelf a
 
 <p style="text-align: justify">
 Het lijkt misschien vanzelfsprekend, maar ik ben ook een stuk socialer en vlot in omgang geworden door mijn club. Het is niet dat ik moeite had om sociale contacten te leggen, maar ik heb wel geleerd om grenzen te verleggen en nieuwe uitdagingen aan te gaan met mensen die ik oorspronkelijk niet kende. Ik merk nu dat het ook makkelijk voor mij is om op kennis te maken met een hele groep collega’s waar ik nog een tijdje mee zal werken.
+</p>
+
+<p style="text-align: justify">
+Ik heb getwijfeld om dit op te nemen in mijn portfolio omdat studentenverenigingen en clubs tegenwoordig niet in het beste daglicht staan, maar ik doe het toch, aangezien deze twee dingen echt een enorme invloed hebben gehad op mijn groei als persoon, en het bereiken van de X-factor.
 </p>
 
 <hr>
