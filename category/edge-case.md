@@ -108,7 +108,7 @@ Mijn twee jaren in het bestuur van Prominos waren een onvergetelijke tijd. Het h
 </p>
 
 <p style="text-align: justify">
-Er zijn oneindig veel dingen die ik zou kunnen vertellen over de dingen die ik geleerd heb bij Prominos, maar het belangrijkste dat ik geleerd heb is, feedback aannemen en ook feedback geven. Ik heb hier meermaals om gevraagd bij mijn andere bestuurs- en Prominosleden. Dit heeft me enorm geholpen om mijn functie consistent goed uit te voeren.
+Er zijn oneindig veel dingen die ik zou kunnen vertellen over de dingen die ik geleerd heb bij Prominos, maar het belangrijkste dat ik geleerd heb is feedback aannemen en ook feedback geven. Ik heb hier meermaals om gevraagd bij mijn andere bestuurs- en Prominosleden. Dit heeft me enorm geholpen om mijn functie consistent goed uit te voeren.
 </p>
 
 <p style="text-align: justify">
