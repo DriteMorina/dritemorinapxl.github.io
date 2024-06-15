@@ -60,7 +60,7 @@ De opdracht die mij het meest is bijgebleven was de ‘Glutton’  challenge. Er
 
 
 <p style="text-align: justify">
-Ik heb me tweemaal geamuseerd met de Cyber Security Challenge. Het waren opdrachten die ik vrijwillig heb gedaan, en ik heb nooit het gevoel gehad alsof het een verplichting was. Het was oprecht iets fijns waar ik mee bezig was. Zeker de eerste hackaton in 2023 heeft een goede nasmaak achter gelaten, aangezien dit de eerste keer was dat ik iets van dit caliber ondernomen heb.
+Ik heb me tweemaal geamuseerd met de Cyber Security Challenge. Het waren opdrachten die ik vrijwillig heb gedaan, en ik heb nooit het gevoel gehad alsof het een verplichting was. Het was oprecht iets fijns waar ik mee bezig was. Zeker de eerste hackaton in 2023 heeft een goede nasmaak achtergelaten, aangezien dit de eerste keer was dat ik iets van dit caliber ondernomen heb.
 </p>
 
 <p style="text-align: justify">
